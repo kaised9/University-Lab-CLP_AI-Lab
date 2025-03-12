@@ -1,0 +1,8 @@
+Enter Number Of Queen = 5
+Solution Found For 5 Queens.
+1 0 0 0 0 
+0 0 0 1 0 
+0 1 0 0 0 
+0 0 0 0 1 
+0 0 1 0 0 
+True
