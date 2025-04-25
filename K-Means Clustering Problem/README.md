@@ -4,10 +4,12 @@ PROCEDURE/ANALYSIS:
 Steps are given in below : 
 1. Data Generation:
 a. A grid of size 11x11 (121 total coordinates) was used.
+
 b. Randomly selected 100 unique points from the grid as input data.
+
 c. Generated 10 random cluster centers (can include overlap).
 
-2. Distance Calculation:
+3. Distance Calculation:
    a. Manhattan distance was used to calculate the distance between each point and    
       every cluster center.
    b. Formula used :  abs(x1 - x2) + abs(y1 - y2).
