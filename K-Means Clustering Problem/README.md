@@ -35,7 +35,7 @@ Steps are given in below :
    
    a. A matrix (grid) was created to represent the points and cluster centers.
    
-   b. Data points were marked with numbers (0-9 based on cluster ID).
+   b. Data points were marked with numbers (0-9).
    
    c. Cluster centers were marked with capital letters (A-J).
    
