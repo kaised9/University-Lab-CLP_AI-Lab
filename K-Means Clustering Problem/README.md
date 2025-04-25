@@ -44,4 +44,5 @@ Steps are given in below :
 
 Output: 
 
-![Screenshot 2025-04-25 150656](https://github.com/user-attachments/assets/a692830c-abdc-4622-a1cf-78a419a1dea9)
+![Screenshot 2025-04-25 150656](https://github.com/user-attachments/assets/a7896047-ed92-4d3e-b5fa-294a87426ac9)
+
