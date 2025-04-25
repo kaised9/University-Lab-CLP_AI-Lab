@@ -19,7 +19,7 @@ class KMeans:
         all_coords = [(x, y) for x in range(size) for y in range(size)]
         random.shuffle(all_coords)
         if points > len(all_coords):
-            raise ValueError("Grid too small for unique points")
+            raise ValueError("Grid Too Small For Unique Points")
         self.p = [Point(x, y) for x, y in all_coords[:points]]
         self.k = [Point(random.randint(0, size-1), random.randint(0, size-1)) for _ in range(clusters)]
 
