@@ -6,11 +6,11 @@ Steps are given in below :
 
 1. Data Generation:
    
-a. A grid of size 11x11 (121 total coordinates) was used.
+   a. A grid of size 11x11 (121 total coordinates) was used.
 
-b. Randomly selected 100 unique points from the grid as input data.
+   b. Randomly selected 100 unique points from the grid as input data.
 
-c. Generated 10 random cluster centers (can include overlap).
+   c. Generated 10 random cluster centers (can include overlap).
 
 
 2. Distance Calculation:
