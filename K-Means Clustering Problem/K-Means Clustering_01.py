@@ -57,7 +57,7 @@ class KMeans:
 
         print("\nCluster Visualization Are Given Below:\n")
         x_labels = [f"{i:02}" for i in range(self.grid_size)]
-        print("     " + "    ".join(x_labels))
+        print("     " + "   ".join(x_labels))
         for idx, row in enumerate(grid):
             line = "    ".join(cell if cell != " " else "." for cell in row)
             print(f"{idx:02}   {line}")
