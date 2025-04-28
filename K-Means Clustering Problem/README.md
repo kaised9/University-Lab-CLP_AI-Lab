@@ -1,8 +1,8 @@
-Problem: Implement a modified K-Means clustering algorithm using Python. In this task, you must generate a data file containing 100 Cartesian points P(x, y) and 10 initial cluster centers C(x, y). The algorithm should be rewritten to use the Manhattan distance method for calculating distances between points and clusters. Additionally, you are required to create a 2D visualization of the clustered data using a matrix, where each cell represents a coordinate on the plane and displays either a data point or a cluster center using distinct symbols. This visualization must be displayed using only the print() function.
+# TITLE OF THE PROBLEM :
 
-PROCEDURE/ANALYSIS: 
+Implement a modified K-Means clustering algorithm using Python. In this task, you must generate a data file containing 100 Cartesian points P(x, y) and 10 initial cluster centers C(x, y). The algorithm should be rewritten to use the Manhattan distance method for calculating distances between points and clusters. Additionally, you are required to create a 2D visualization of the clustered data using a matrix, where each cell represents a coordinate on the plane and displays either a data point or a cluster center using distinct symbols. This visualization must be displayed using only the print() function.
 
-Steps are given in below : 
+# PROCEDURE/ANALYSIS: 
 
 1. Data Generation:
    
@@ -42,7 +42,7 @@ Steps are given in below :
    d. The matrix was displayed using only print().
 
 
-Output: 
+# OUTPUT: 
 
 ![Screenshot 2025-04-25 150656](https://github.com/user-attachments/assets/a7896047-ed92-4d3e-b5fa-294a87426ac9)
 
