@@ -1,4 +1,6 @@
-# TITLE OF THE PROBLEM : Solving the N-Queens Problem Using Genetic Algorithms in Python.
+# TITLE OF THE PROBLEM : 
+
+Solving the N-Queens Problem Using Genetic Algorithms in Python.
 
 # PROCEDURE/ANALYSIS : 
 
