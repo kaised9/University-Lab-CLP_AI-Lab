@@ -28,7 +28,7 @@ iv. Increase the depth limit iteratively and explore paths.
 
 v.  Keep track of the path traversal. 
 
-#OUTPUT : 
+# OUTPUT : 
 
 #Case_01 : Input & OutPut
 ![1-0](https://github.com/user-attachments/assets/2e7ff4bd-9918-4b8f-ae0c-f73db3853b14)
