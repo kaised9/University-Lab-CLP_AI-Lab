@@ -1,6 +1,6 @@
-# TITLE OF THE PROBLEM :  : Solving the N-Queens Problem Using Genetic Algorithms in Python.
+# TITLE OF THE PROBLEM : Solving the N-Queens Problem Using Genetic Algorithms in Python.
 
-# PROCEDURE : 
+# PROCEDURE/ANALYSIS : 
 
 1. Randomly create an initial population of 100 chessboards. Each board places queens randomly on the board.
    
