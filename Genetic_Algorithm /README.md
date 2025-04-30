@@ -2,7 +2,7 @@
 
 Given a target integer T and a fixed list length k, evolve a list of K numbers (0–9) whose product equals T.
 
-# How To Use It : 
+# How TO USE IT : 
 
 1. Enter a target number (T) and number count (K).
   
